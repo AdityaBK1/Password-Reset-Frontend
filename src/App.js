@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
 
-  const url="http://localhost:4001";
+  const url="https://password-reset-87fo.onrender.com";
 
   return (
     <Router>
